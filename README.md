@@ -4,7 +4,7 @@ Predicting the species of an iris flower (*setosa*, *versicolor* or *virginica*)
 
 Built as a lab assignment for **TEB3113 Big Data Analytics** at Universiti Teknologi PETRONAS.
 
-[Pairplot of iris features by species](outputs/01_pairplot.png)
+![Pairplot of iris features by species](outputs/01_pairplot.png)
 
 ## Results
 
