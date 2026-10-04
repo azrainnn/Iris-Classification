@@ -69,14 +69,6 @@ The script prints each step's results to the terminal and saves every chart, plu
 
 Python · pandas · NumPy · scikit-learn · matplotlib · seaborn
 
-## Team
-
-- Azrain Shawn Bin Ariffin
-- Por Jie Hao
-- Ikmal Bin Mohd Sofian
-
-Supervised by Ts Dr Nurul Aida Osman.
-
 ## Reference
 
 Fisher, R. A. (1936). The use of multiple measurements in taxonomic problems. *Annals of Eugenics, 7*(2), 179–188.
